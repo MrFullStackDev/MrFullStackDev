@@ -1,4 +1,6 @@
-### Hi there I'm Rahul - aka [MrFullStackDev](https://twitter.com/MrFullStackDev) 👋
+### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev) 👋
+
+I am a Frontend Developer & a UI Designer from India.
 
 - 🔭 I’m currently working on a MERN Project.
 - 👯 I'm happy to help you with questions regarding Front-end Development.
@@ -9,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rahul09.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MrFullStackDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MrFullStackDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rahul09.me" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MrFullStackDev | Twitter" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MrFullStackDev | LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
