@@ -4,7 +4,7 @@ I am a Frontend Developer & a UI Designer from India.
 
 - 🔭 I’m currently working on a MERN Project.
 - 👯 I'm happy to help you with questions regarding Front-end Development.
-- ✨ Goals: Contribute more to Open Source projects.
+- ✨ My goal is to contribute more to Open Source projects.
 - 🌱 I’m currently learning everything. 
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him
