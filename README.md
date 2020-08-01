@@ -36,7 +36,7 @@ I am a Frontend Developer & a UI Designer from India.
 
 ---
 
-<img align="left" alt="MrFullStackDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrFullStackDev&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="MrFullStackDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrFullStackDev&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues" />
 
 [website]: https://www.rahul09.me/
 [twitter]: https://twitter.com/MrFullStackDev
