@@ -1,6 +1,6 @@
 ### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev) 👋
 
-I am a Frontend Developer & a UI Designer from India.
+I am a Web Developer & a UI Designer from India.
 
 - 🔭 I’m currently working on a MERN Project.
 - 👯 I'm happy to help you with questions regarding Front-end Development.
