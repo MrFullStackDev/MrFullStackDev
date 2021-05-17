@@ -7,7 +7,6 @@ I am a Web Developer & a UI Designer from India.
 - ✨ My goal is to contribute more to Open Source projects.
 - 🌱 I’m currently learning everything. 
 - 💬 Ask me about anything!
-- 😄 Pronouns: He/Him
 
 ### Connect with me:
 
