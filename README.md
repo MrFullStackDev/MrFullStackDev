@@ -1,12 +1,10 @@
 ### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev) 👋
 
-I am a Web Developer & a UI Designer from India.
+I am a software engineer from India. My interests range from technology to design.
 
-- 🔭 I’m currently working on a MERN Project.
-- 👯 I'm happy to help you with questions regarding Front-end Development.
-- ✨ My goal is to contribute more to Open Source projects.
-- 🌱 I’m currently learning everything. 
-- 💬 Ask me about anything!
+I have a solid understanding of computer science and web development concepts. I have dedicated a considerable amount of time to apply these concepts to real-world scenarios and applications. I am also into UI/UX designing. I've worked extensively on technologies like MongoDB, ExpressJs, ReactJs, NodeJs.
+
+I've been fortunate enough to work with early-stage startups, which has further broadened my concepts around AWS, Google Ads, Wireframing and Prototyping, etc.
 
 ### Connect with me:
 
@@ -35,7 +33,7 @@ I am a Web Developer & a UI Designer from India.
 
 ---
 
-[website]: https://www.rahul09.me/
+[website]: https://rahulkr.now.sh/
 [twitter]: https://twitter.com/MrFullStackDev
 [linkedin]: https://linkedin.com/in/MrFullStackDev
 
