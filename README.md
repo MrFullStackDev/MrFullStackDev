@@ -1,4 +1,4 @@
-### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev)
 
 I am a software engineer from India. My interests range from technology to design.
 
