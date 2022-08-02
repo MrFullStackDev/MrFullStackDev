@@ -8,7 +8,7 @@ I've been fortunate enough to work with early-stage startups, which has further 
 
 ### Connect with me:
 
-[<img align="left" alt="rahul09.me" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.mrfullstackdev.in/" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MrFullStackDev | Twitter" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MrFullStackDev | LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -16,7 +16,7 @@ I've been fortunate enough to work with early-stage startups, which has further 
 
 ---
 
-[website]: https://rahulkr.now.sh/
+[website]: https://www.mrfullstackdev.in/
 [twitter]: https://twitter.com/MrFullStackDev
 [linkedin]: https://linkedin.com/in/MrFullStackDev
 
