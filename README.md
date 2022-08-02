@@ -6,17 +6,3 @@ I have a solid understanding of computer science and web development concepts. I
 
 I've been fortunate enough to work with early-stage startups, which has further broadened my concepts around AWS, Google Ads, Wireframing and Prototyping, etc.
 
-### Connect with me:
-
-[<img align="left" alt="https://www.mrfullstackdev.in/" height="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MrFullStackDev | Twitter" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MrFullStackDev | LinkedIn" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-
-[website]: https://www.mrfullstackdev.in/
-[twitter]: https://twitter.com/MrFullStackDev
-[linkedin]: https://linkedin.com/in/MrFullStackDev
-
