@@ -1,8 +1,28 @@
-### Hi there I'm [Rahul](https://twitter.com/MrFullStackDev)
+<h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> I'm Rahul</h1>
 
-I am a software engineer from India. My interests range from technology to design.
 
-I have a solid understanding of computer science and web development concepts. I have dedicated a considerable amount of time to apply these concepts to real-world scenarios and applications. I am also into UI/UX designing. I've worked extensively on technologies like MongoDB, ExpressJs, ReactJs, NodeJs.
+- 🔭 I’m currently working as a Software Developer.
+- 😊 Willing to contribute in **Open Source projects**.
+- 🎓 Education: Master of Computer Applications, 2022.
+- 📫 Reach out to me: [mrfullstackdev@gmail.com](mailto:mrfullstackdev@gmail.com).
 
-I've been fortunate enough to work with early-stage startups, which has further broadened my concepts around AWS, Google Ads, Wireframing and Prototyping, etc.
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfullstackdev&layout=compact)](https://github.com/mrfullstackdev/github-readme-stats)
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfullstackdev&count_private=true&show_icons=true&theme=radical)
