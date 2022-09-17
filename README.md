@@ -1,7 +1,7 @@
 <h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> I'm Rahul</h1>
 
 
-- 🔭 I’m currently working as a Software Developer.
+- 🔭 I’m currently working as a Software Test Engineer.
 - 😊 Willing to contribute in **Open Source projects**.
 - 🎓 Education: Master of Computer Applications, 2022.
 - 📫 Reach out to me: [mrfullstackdev@gmail.com](mailto:mrfullstackdev@gmail.com).
